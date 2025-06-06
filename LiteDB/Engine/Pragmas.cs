@@ -1,5 +1,4 @@
 namespace LiteDB.Engine;
-
 public static class Pragmas
 {
     public const string USER_VERSION = nameof(USER_VERSION);
